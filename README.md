@@ -1,5 +1,7 @@
 AS3 framework
--includes all kinds of common components, animations, and other display objects
--built in theming
--built in security
--helper functions
+<ul>
+<li>includes all kinds of common components, animations, and other display objects</li>
+<li>built in theming</li>
+<li>built in security</li></li>
+<li>helper functions</li>
+<ul>
